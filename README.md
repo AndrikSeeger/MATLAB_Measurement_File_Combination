@@ -12,7 +12,7 @@ The combination process includes:
 * automatically resorting the measurement data to one time-continues measurement
 
 ## Plotting of measurement files
-The resulting measurement files can be displayed after the adaption and combination by plotting the measurement data over time. The required signals can be chosen within the GUI and plottet using either the left or the right y-axis. The resulting plot can be saved as a MATLAB figure or as Portable Network Graphics (PNG).
+The resulting measurement files can be displayed after the adaption and combination by plotting the measurement data over time. The required signals can be chosen within the GUI and plotted using either the left or the right y-axis. The resulting plot can be saved as a MATLAB figure or as Portable Network Graphics (PNG).
 
 ## Graphical User Interface (GUI)
 The GUI with all functionalities is displayed in the following picture.
